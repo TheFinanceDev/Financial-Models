@@ -7,6 +7,6 @@ This repository highlights expertise in **financial modeling, valuation, and bus
 
 ## 🏢 Companies
 
-- [HDFC Bank Ltd.](./Models/HDFC_Bank_Ltd_Financial-Model.pdf)  
+- [HDFC Bank Ltd.](./Models/HDFC_Bank_Financial-Model.pdf)  
 - [Adani Ltd.](./Models/Adani_Enterprise_Financial-Model.pdf)  
 - [Tata Motors Ltd.](./Models/Tata_Motors_Ltd_Financial-Model.pdf)  
